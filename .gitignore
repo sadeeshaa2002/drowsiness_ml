@@ -1,0 +1,13 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Ignore heavy dataset folders and media files
+Data/
+*.png
+*.jpg
+*.jpeg
+*.avi
+*.mp4
+*.zip
